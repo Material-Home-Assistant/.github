@@ -56,6 +56,7 @@ Here is an overview of our flagship projects. Click to learn more!
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 20px; width: 100%;">
   <tr>
     <td align="center" valign="top" style="width: 50%; border: 1px solid #ddd; border-radius: 15px; padding: 20px;">
+      <img src="./logo/Logo.png" width="100px" alt="Material Home Assistant Logo">
       <h3 style="margin-top: 10px;">🎨 Material Home Assistant Integration</h3>
       <p>
         A suite of Lovelace components that brings the Google Home app experience directly into Home Assistant, implementing <strong>Material You</strong> design principles for a sleek and modern interface.
@@ -65,6 +66,7 @@ Here is an overview of our flagship projects. Click to learn more!
       </a>
     </td>
     <td align="center" valign="top" style="width: 50%; border: 1px solid #ddd; border-radius: 15px; padding: 20px;">
+      <img src="https://raw.githubusercontent.com/HA-Material-Components/octopus-energy-adapter/main/logos/logo%402x.png" width="150px" alt="Octopus Energy Adapter Logo">
       <h3 style="margin-top: 10px;">🐙 Octopus Energy Adapter</h3>
       <p>
         A "bridge" integration that solves the data delay from <strong>Octopus Energy Italy</strong>, importing historical consumption data into Home Assistant's Energy Panel for accurate and timely analysis.
