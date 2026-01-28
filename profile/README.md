@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="./logo/Logo.png" width="500px" alt="Material Home Assistant Logo">
-  </div>
+  <img src="./logo/Logo.png" width="250px" alt="Material Home Assistant Logo">
   <h1><b>Material Home Assistant</b></h1>
 </div>
 
