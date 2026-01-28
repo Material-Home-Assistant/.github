@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./logo/Logo.png" width="500px" alt="Material Home Assistant Logo">
+  </div>
   <h1><b>Material Home Assistant</b></h1>
 </div>
 
@@ -100,9 +102,9 @@ Every contribution, big or small, is incredibly appreciated and motivates us to 
 
 We are always open to new ideas and contributions from the community! If you want to get involved, here's how you can help:
 
--   ⭐ **Star our repositories** if you like them.
--   🐛 **Report bugs** or issues by opening an *Issue*.
--   💡 **Suggest new features** or improvements.
--   🔧 **Submit Pull Requests** with fixes or new features.
+- ⭐ **Star our repositories** if you like them.
+- 🐛 **Report bugs** or issues by opening an _Issue_.
+- 💡 **Suggest new features** or improvements.
+- 🔧 **Submit Pull Requests** with fixes or new features.
 
 Thank you for your interest in our work!
