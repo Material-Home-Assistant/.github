@@ -66,7 +66,7 @@ Here is an overview of our flagship projects. Click to learn more!
       </a>
     </td>
     <td align="center" valign="top" style="width: 50%; border: 1px solid #ddd; border-radius: 15px; padding: 20px;">
-      <img src="https://raw.githubusercontent.com/HA-Material-Components/octopus-energy-adapter/main/logos/logo%402x.png" width="150px" alt="Octopus Energy Adapter Logo">
+      <img style="margin-top: 10px" src="https://raw.githubusercontent.com/HA-Material-Components/octopus-energy-adapter/main/logos/logo%402x.png" width="200px" alt="Octopus Energy Adapter Logo">
       <h3 style="margin-top: 10px;">🐙 Octopus Energy Adapter</h3>
       <p>
         A "bridge" integration that solves the data delay from <strong>Octopus Energy Italy</strong>, importing historical consumption data into Home Assistant's Energy Panel for accurate and timely analysis.
