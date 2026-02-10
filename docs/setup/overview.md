@@ -2,7 +2,6 @@
 
 <figure><img src="https://1144211266-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3ov5EClzNfEwDYkNqmsR%2Fuploads%2F3drS2ZSkiOfzxHXMDEzK%2FLogo.png?alt=media&#x26;token=dbe1945e-a876-48cd-a5c1-e957bbcb4c59" alt="" width="188"><figcaption></figcaption></figure>
 
-{% hint style="info" %}
 Material Components for Home Assistant is the result of my personal effort: countless hours of development, testing, and improvements designed to make your Home Assistant experience smoother and more functional. There’s no team behind it just me, driven by the passion to create something genuinely useful for users like you.
 
 Maintaining this project takes time and resources. Without support, I might have to stop updates or new features, and the project could come to a halt.
@@ -14,7 +13,6 @@ Even a small contribution helps ensure Material Components remains available and
 If this component has been useful to you or you enjoy using it, your support can make a real difference.
 
 Thank you sincerely for helping me keep this work going
-{% endhint %}
 
 <p align="center"><a href="https://www.buymeacoffee.com/giovannilamarmora"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&#x26;emoji=%E2%98%95&#x26;slug=giovannilamarmora&#x26;button_colour=5F7FFF&#x26;font_colour=ffffff&#x26;font_family=Poppins&#x26;outline_colour=000000&#x26;coffee_colour=FFDD00" alt="Buy me a coffee"></a></p>
 
