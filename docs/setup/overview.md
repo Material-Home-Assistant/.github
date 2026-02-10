@@ -113,6 +113,4 @@ Your support helps keep this project active and maintained. Thank you! ❤️
 
 <div><figure><img src="https://1144211266-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3ov5EClzNfEwDYkNqmsR%2Fuploads%2Fma4sUl0V4UvOzslyJMzW%2FScreenshot_20251010_160137_Home%20Assistant.jpg?alt=media&#x26;token=90dad359-36b1-4c19-a08a-0198a722a79f" alt="" width="188"><figcaption><p>Dark Mode</p></figcaption></figure> <figure><img src="https://1144211266-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3ov5EClzNfEwDYkNqmsR%2Fuploads%2FEGFct0kEvR3sSeRrzopq%2FScreenshot_20251010_160124_Home%20Assistant.jpg?alt=media&#x26;token=d2f99b74-2ea6-43a7-84d6-c7d92dfa7d37" alt="" width="188"><figcaption><p>Light Mode</p></figcaption></figure></div>
 
-{% embed url="<https://www.buymeacoffee.com/giovannilamarmora>" %}
 ☕ Buy me a Coffee
-{% endembed %}
