@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo/Logo.png" width="250px" alt="Material Home Assistant Logo">
+  <img src="https://raw.githubusercontent.com/Material-Home-Assistant/.github/refs/heads/main/profile/logo/Logo.png" width="250px" alt="Material Home Assistant Logo">
   <h1><b>Material Home Assistant</b></h1>
 </div>
 
@@ -20,31 +20,33 @@
 We are the founders and lead developers of this project. Our mission is to enhance the Home Assistant user experience through powerful and aesthetically pleasing components.
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 20px; width: 100%;">
-  <tr>
-    <td align="center" valign="top" style="width: 50%;">
-      <img src="https://github.com/giovannilamarmora.png" width="120px" style="border-radius: 50%;" alt="Giovanni Lamarmora"/>
-      <h3 style="margin-top: 15px;">Giovanni Lamarmora</h3>
-      <p>Developer & Owner</p>
-      <p>
-        <a href="https://github.com/giovannilamarmora">
-          <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub"/>
-        </a>
-        <a href="https://giovannilamarmora.github.io/">
-          <img src="https://img.shields.io/badge/WebSite-Visit-green?style=for-the-badge&logo=google-chrome" alt="Website"/>
-        </a>
-      </p>
-    </td>
-    <td align="center" valign="top" style="width: 50%;">
-      <img src="https://github.com/Fravit6.png" width="120px" style="border-radius: 50%;" alt="Francesco Vitale"/>
-      <h3 style="margin-top: 15px;">Francesco Vitale</h3>
-      <p>Developer & Owner</p>
-      <p>
-        <a href="https://github.com/Fravit6">
-          <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub"/>
-        </a>
-      </p>
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="width: 50%;">
+        <img src="https://github.com/giovannilamarmora.png" width="120px" style="border-radius: 50%;" alt="Giovanni   Lamarmora"/>
+        <h3 style="margin-top: 15px;">Giovanni Lamarmora</h3>
+        <p>Developer & Owner</p>
+        <p>
+          <a href="https://github.com/giovannilamarmora">
+            <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub"/ >
+          </a>
+          <a href="https://giovannilamarmora.github.io/">
+            <img src="https://img.shields.io/badge/WebSite-Visit-green?style=for-the-badge&logo=google-chrome"  alt="Website"/>
+          </a>
+        </p>
+      </td>
+      <td align="center" valign="top" style="width: 50%;">
+        <img src="https://github.com/Fravit6.png" width="120px" style="border-radius: 50%;" alt="Francesco Vitale"/>
+        <h3 style="margin-top: 15px;">Francesco Vitale</h3>
+        <p>Developer & Owner</p>
+        <p>
+          <a href="https://github.com/Fravit6">
+            <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub"/ >
+          </a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
@@ -54,28 +56,30 @@ We are the founders and lead developers of this project. Our mission is to enhan
 Here is an overview of our flagship projects. Click to learn more!
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 20px; width: 100%;">
-  <tr>
-    <td align="center" valign="top" style="width: 50%; border: 1px solid #ddd; border-radius: 15px; padding: 20px;">
-      <img src="./logo/Logo.png" width="100px" alt="Material Home Assistant Logo">
-      <h3 style="margin-top: 10px;">🎨 Material Home Assistant Integration</h3>
-      <p>
-        A suite of Lovelace components that brings the Google Home app experience directly into Home Assistant, implementing <strong>Material You</strong> design principles for a sleek and modern interface.
-      </p>
-      <a href="https://github.com/Material-Home-Assistant/material-home-assistant-integration">
-        <img src="https://img.shields.io/badge/View%20Project-gray?style=for-the-badge&logo=github" alt="View Project"/>
-      </a>
-    </td>
-    <td align="center" valign="top" style="width: 50%; border: 1px solid #ddd; border-radius: 15px; padding: 20px;">
-      <img style="margin-top: 15px" src="https://raw.githubusercontent.com/HA-Material-Components/octopus-energy-adapter/main/logos/logo%402x.png" width="200px" alt="Octopus Energy Adapter Logo">
-      <h3 style="margin-top: 10px;">🐙 Octopus Energy Adapter</h3>
-      <p>
-        A "bridge" integration that solves the data delay from <strong>Octopus Energy Italy</strong>, importing historical consumption data into Home Assistant's Energy Panel for accurate and timely analysis.
-      </p>
-      <a href="https://github.com/Material-Home-Assistant/octopus-energy-adapter">
-        <img src="https://img.shields.io/badge/View%20Project-gray?style=for-the-badge&logo=github" alt="View Project"/>
-      </a>
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" style="width: 50%; border: 1px solid #ddd; border-radius: 15px; padding: 20px;  ">
+        <img src="https://raw.githubusercontent.com/Material-Home-Assistant/.github/refs/heads/main/profile/logo/ Logo.png" width="100px" alt="Material Home Assistant Logo">
+        <h3 style="margin-top: 10px;">🎨 Material Home Assistant Integration</h3>
+        <p>
+          A suite of Lovelace components that brings the Google Home app experience directly into Home Assistant,   implementing <strong>Material You</strong> design principles for a sleek and modern interface.
+        </p>
+        <a href="https://github.com/Material-Home-Assistant/material-home-assistant-integration">
+          <img src="https://img.shields.io/badge/View%20Project-gray?style=for-the-badge&logo=github" alt="View   Project"/>
+        </a>
+      </td>
+      <td align="center" valign="top" style="width: 50%; border: 1px solid #ddd; border-radius: 15px; padding: 20px;  ">
+        <img style="margin-top: 15px" src="https://raw.githubusercontent.com/HA-Material-Components/  octopus-energy-adapter/main/logos/logo%402x.png" width="200px" alt="Octopus Energy Adapter Logo">
+        <h3 style="margin-top: 10px;">🐙 Octopus Energy Adapter</h3>
+        <p>
+          A "bridge" integration that solves the data delay from <strong>Octopus Energy Italy</strong>, importing   historical consumption data into Home Assistant's Energy Panel for accurate and timely analysis.
+        </p>
+        <a href="https://github.com/Material-Home-Assistant/octopus-energy-adapter">
+          <img src="https://img.shields.io/badge/View%20Project-gray?style=for-the-badge&logo=github" alt="View   Project"/>
+        </a>
+      </td>
+    </tr>
+  <tbody>
 </table>
 
 ---
